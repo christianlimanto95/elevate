@@ -1,0 +1,174 @@
+.section-1 {
+	height: auto;
+}
+
+.section-inner {
+	width: 90vw;
+	margin: 0 auto;
+}
+
+.form-label span {
+	color: #777;
+	float: right;
+}
+
+.button-attach, .button-plus {
+	display: inline-block;
+	color: white;
+	text-align: center;
+	background-color: #999;
+	cursor: pointer;
+	vertical-align: top;
+}
+
+.button-plus {
+	background-color: #e61212;
+}
+
+@media all and (max-width: 1024px) {
+	.section-1 {
+		padding-bottom: 12.5vw;
+	}
+
+	.section-title {
+		font-size: 8vw;
+		margin: 5vw 5vw 5vw 0;
+	}
+
+	.section-description {
+		font-size: 4vw;
+		line-height: 6vw;
+		margin-bottom: 15vw;
+	}
+
+	.select {
+		display: none;
+	}
+
+	.form-label span {
+		font-size: 3vw;
+		padding-top: 0.5vw;
+	}
+
+	.form-item-gender {
+		width: 50vw;
+	}
+
+	.select-date-container, .select-month-container {
+		width: 30%;
+		float: left;
+	}
+
+	.select-year-container {
+		float: left;
+		width: 40%;
+	}
+
+	.form-input-address {
+		height: 20vw;
+	}
+
+	.form-input-description {
+		height: 30vw;
+	}
+
+	.attach {
+		margin-bottom: 1vw;
+	}
+
+	.button-attach, .button-plus {
+		height: 10vw;
+		margin-bottom: 10vw;
+	}
+
+	.button-attach {
+		width: 40vw;
+		padding-top: 3vw;
+		font-size: 4vw;
+	}
+
+	.button-plus {
+		width: 10vw;
+		font-size: 10vw;
+	}
+}
+
+@media all and (min-width: 768px) and (max-width: 1024px) {
+
+}
+
+@media all and (min-width: 1025px) {
+	.section-1 {
+		min-height: 60vw;
+		padding-bottom: 50px;
+	}
+
+	.section-title {
+		font-size: 24pt;
+		margin-bottom: 20px;
+	}
+
+	.section-description {
+		width: 700px;
+		font-size: 11pt;
+		line-height: 20px;
+		margin-bottom: 50px;
+	}
+
+	.form-container {
+		width: 700px;
+	}
+
+	.select-mobile-container {
+		display: none;
+	}
+
+	.form-label span {
+		font-size: 11pt;
+	}
+
+	.select-gender {
+		width: 200px;
+	}
+	
+	.select-date, .select-month, .select-year {
+		width: 100px;
+		margin-right: 5px;
+	}
+
+	.form-input {
+		max-width: 700px;
+	}
+
+	.form-input-address {
+		height: 70px;
+	}
+	
+	.select-job {
+		width: 200px;
+	}
+	
+	.form-input-description {
+		height: 150px;
+	}
+	
+	.attach {
+		margin-bottom: 10px;
+	}
+
+	.button-attach, .button-plus {
+		height: 28px;
+		margin-bottom: 50px;
+	}
+
+	.button-attach {
+		width: 150px;
+		padding-top: 6px;
+	}
+
+	.button-plus {
+		width: 30px;
+		padding-top: 2px;
+		font-size: 20pt;
+	}
+}

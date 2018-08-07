@@ -1,0 +1,41 @@
+.section {
+	height: auto;
+}
+
+@media all and (max-width: 1024px) {
+	.section {
+		padding-top: 20vw;
+		padding-bottom: 12.5vw;
+	}
+
+	.section-inner {
+		width: 90vw;
+		margin: 0 auto;
+	}
+
+	.section-title {
+		font-size: 8vw;
+		margin: 5vw 5vw 5vw 0;
+	}
+}
+
+@media all and (min-width: 768px) and (max-width: 1024px) {
+
+}
+
+@media all and (min-width: 1025px) {
+	.section {
+		padding-top: 150px;
+		padding-bottom: 50px;
+	}
+
+	.section-inner {
+		margin-left: 50px;
+		width: 700px;
+	}
+
+	.section-title {
+		font-size: 24pt;
+		margin-bottom: 20px;
+	}
+}

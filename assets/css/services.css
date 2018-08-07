@@ -1,0 +1,154 @@
+.section {
+	height: auto;
+}
+
+.section-title, .section-subtitle {
+	color: #e61212;
+}
+
+.service-item {
+	cursor: pointer;
+}
+
+.service-title {
+	color: #e61212;
+	display: inline-block;
+}
+
+.service-description {
+	overflow: hidden;
+}
+
+.service-item[data-show="false"] .service-description {
+	height: 0;
+}
+
+@media all and (max-width: 1024px) {
+	.section {
+		padding-bottom: 12.5vw;
+	}
+
+	.section-1 {
+		padding-top: 12.5vw;
+	}
+
+	.section-inner {
+		margin-left: 5vw;
+		width: 90vw;
+	}
+
+	.section-title {
+		font-size: 8vw;
+		line-height: 10vw;
+		margin-top: 12.5vw;
+		margin-bottom: 5vw;
+	}
+
+	.service-item {
+		margin-bottom: 7vw;
+	}
+
+	.service-title {
+		font-size: 5vw;
+	}
+
+	.section-2 .section-title {
+		margin-bottom: 10vw;
+	}
+
+	.package-item {
+		margin-bottom: 10vw;
+	}
+
+	.package-title, .special-package-title {
+		color: #e61212;
+		font-size: 5vw;
+		font-weight: bold;
+		line-height: 8vw;
+	}
+
+	.special-package-number-title {
+		font-weight: bold;
+	}
+}
+
+@media all and (min-width: 768px) and (max-width: 1024px) {
+
+}
+
+@media all and (min-width: 1025px) {
+	.section {
+		padding-bottom: 50px;
+	}
+
+	.section-1 {
+		padding-top: 100px;
+	}
+	
+	.section-inner {
+		margin-left: 5vw;
+		width: 700px;
+	}
+
+	.section-title {
+		font-size: 26pt;
+		line-height: 43px;
+		margin-top: 50px;
+		margin-bottom: 20px;
+	}
+
+	.service-item {
+		margin-bottom: 30px;
+	}
+
+	.service-title {
+		font-size: 14pt;
+	}
+
+	.package-item {
+		border: 1px solid #e61212;
+		display: inline-block;
+		padding: 20px;
+		margin-bottom: 20px;
+	}
+	
+	.package-title, .package-description {
+		display: inline-block;
+		vertical-align: middle;
+	}
+
+	.package-title, .special-package-title {
+		color: #e61212;
+		font-size: 16pt;
+		font-weight: bold;
+		width: 300px;
+		padding-right: 70px;
+		line-height: 30px;
+	}
+
+	.package-description {
+		width: 350px;
+	}
+
+	.special-package-title {
+		padding-right: 0;
+		width: auto;
+	}
+
+	.special-package-description {
+		float: left;
+		width: 300px;
+	}
+
+	.special-package-description:nth-child(1) {
+		width: 325px;
+		border-right: 1px solid #e61212;
+		margin-right: 25px;
+		padding-right: 25px;
+	}
+
+	.special-package-number-title {
+		font-size: 12pt;
+		font-weight: bold;
+	}
+}

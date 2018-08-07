@@ -1,0 +1,284 @@
+.section-1 {
+	height: auto;
+}
+
+.section-inner {
+	width: 90vw;
+	margin: 0 auto;
+}
+
+.insight-item {
+	display: block;
+	overflow-y: auto;
+	text-decoration: none;
+	color: black;
+}
+
+.insight-title {
+	color: #e61212;
+}
+
+.insight-detail {
+	overflow: auto;
+}
+
+.insight-by, .insight-date {
+	float: left;
+}
+
+.insight-by span {
+	color: #e61212;
+}
+
+.insight-description {
+	clear: both;
+}
+
+.archive-title {
+	color: #e61212;
+}
+
+.archive-year {
+	font-weight: bold;
+}
+
+.paging {
+	clear: both;
+	text-align: center;
+	overflow: auto;
+}
+
+.page, .page-prev, .page-next {
+	display: inline-block;
+	border: 1px solid transparent;
+	cursor: pointer;
+}
+
+.page-dot {
+	display: inline-block;
+}
+
+.page-prev, .page-next {
+	color: #e61212;
+	font-weight: bold;
+}
+
+.page-next {
+	margin-right: 0;
+}
+
+.view-all {
+	margin: 0 auto;
+	text-align: center;
+	border: 1px solid transparent;
+	cursor: pointer;
+}
+
+@media all and (max-width: 1024px) {
+	.section-1 {
+		padding-bottom: 12.5vw;
+	}
+
+	.section-title {
+		font-size: 8vw;
+		margin: 5vw 5vw 5vw 0;
+	}
+
+	.insight-container {
+		margin-top: 10vw;
+	}
+
+	.insight-item {
+		margin-bottom: 15vw;
+	}
+
+	.insight-title {
+		font-size: 6.5vw;
+		line-height: 8.5vw;
+	}
+
+	.insight-detail {
+		margin: 5vw 0;
+		font-size: 3.5vw;
+	}
+
+	.insight-by {
+		margin-right: 5vw;
+	}
+
+	.insight-comment, .insight-like, .insight-share {
+		margin-top: 2vw;
+		float: left;
+	}
+
+	.insight-share {
+		clear: left;
+	}
+
+	.insight-share, .insight-like {
+		margin-right: 10vw;
+	}
+
+	.insight-description {
+		line-height: 6vw;
+		font-size: 4vw;
+	}
+
+	.button-read-more {
+		margin-top: 5vw;
+	}
+
+	.paging {
+		margin: 5vw 0 0;
+	}
+
+	.page, .page-prev, .page-next {
+		width: 10vw;
+		height: 10vw;
+		padding-top: 3vw;
+		font-size: 4vw;
+		margin-right: 2vw;
+	}
+
+	.page-dot {
+		font-size: 4vw;
+		margin-right: 2vw;
+	}
+
+	.page.active, .page:active, .page-prev:active, .page-next:active, .view-all:active {
+		border: 1px solid #e61212;
+	}
+
+	.view-all {
+		width: 30vw;
+		font-size: 3.5vw;
+		padding: 3vw 0;
+	}
+
+	.archives-container {
+		margin-top: 15vw;
+	}
+
+	.archive-title {
+		font-size: 5vw;
+		margin-bottom: 10vw;
+	}
+
+	.archive-year {
+		font-size: 4vw;
+		margin-bottom: 5vw;
+	}
+
+	.archive-month {
+		font-size: 4vw;
+		margin-bottom: 5vw;
+	}
+}
+
+@media all and (min-width: 768px) and (max-width: 1024px) {
+
+}
+
+@media all and (min-width: 1025px) {
+	.section-1 {
+		min-height: 60vw;
+		padding-bottom: 50px;
+	}
+
+	.section-title {
+		font-size: 24pt;
+		margin-bottom: 20px;
+	}
+
+	.insight-container {
+		margin-top: 20px;
+		width: 700px;
+		float: left;
+	}
+
+	.insight-item {
+		margin-bottom: 50px;
+	}
+
+	.insight-title {
+		font-size: 18pt;
+	}
+
+	.insight-detail {
+		margin: 20px 0;
+		font-size: 10pt;
+	}
+
+	.insight-by {
+		margin-right: 20px;
+	}
+
+	.insight-comment, .insight-like, .insight-share {
+		float: right;
+	}
+
+	.insight-comment, .insight-like {
+		margin-right: 30px;
+	}
+	
+	.insight-share {
+		margin-right: 100px;
+	}
+
+	.insight-description {
+		line-height: 25px;
+		font-size: 11pt;
+	}
+
+	.button-read-more {
+		margin-top: 15px;
+	}
+
+	.paging {
+		margin: 20px 0 10px;
+	}
+
+	.page, .page-prev, .page-next {
+		width: 35px;
+		height: 35px;
+		padding-top: 9px;
+		font-size: 10pt;
+		margin-right: 10px;
+	}
+
+	.page-dot {
+		font-size: 10pt;
+		margin-right: 10px;
+	}
+
+	.page.active, .page:hover, .page-prev:hover, .page-next:hover, .view-all:hover {
+		border: 1px solid #e61212;
+	}
+
+	.view-all {
+		width: 100px;
+		font-size: 10pt;
+		padding: 10px 0;
+	}
+
+	.archives-container {
+		float: right;
+		margin-right: 100px;
+		margin-top: -50px;
+	}
+
+	.archive-title {
+		font-size: 14pt;
+		margin-bottom: 15px;
+	}
+
+	.archive-year {
+		font-size: 12pt;
+		margin-bottom: 10px;
+	}
+
+	.archive-month {
+		font-size: 11pt;
+		margin-bottom: 10px;
+	}
+}
