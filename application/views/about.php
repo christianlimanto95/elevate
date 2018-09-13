@@ -205,40 +205,55 @@ Inilah yang mendasari kerja ELEVATE, apa yang kami kejar selalu di atas standar.
         <div class="section-title" data-index="23" data-anim="show-up" data-anim-threshold="self">Answering Your Curiosity</div>
         <div class="faq-container">
             <div class="faq-item" data-show="false" data-index="23" data-anim="show-up" data-anim-threshold="self" >
-                <div class="faq-question">What is Brand?</div>
-                <div class="faq-answer"><pre>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</pre></div>
+                <div class="faq-question">Apa itu Brand?</div>
+                <div class="faq-answer"><pre>
+Brand bukanlah logo ataupun brosur. Brand atau merk adalah keseluruhan hal dari sebuah bisnis, baik dengan output berupa barang maupun jasa, yang memberikan pengalaman secara khusus yang berbentuk persepsi maupun perasaan terhadap barang atau jasa tersebut. Jadi brand bukan hanya hal-hal yang bersifat visual saja, tetapi design visual merupakan salah satu bagian dari brand.
+
+Singkatnya Brand adalah character - experience - feeling. Ketiga hal ini terbentuk dari serangkaian hal yang kompleks yang bisa kita bahas lebih lanjut dalam sesi konsultasi dengan ELEVATE.
+
+Kualitas adalah yang utama, aktivitas marketing akan membantu membetuk image atau persepsi, namun hanya kualitas yang membentuk brand yang sebenarnya, yang memberi pengalaman yang tidak terbantahkan. Integritas sebuah brand dapat terlihat dari kesetaraan antara kualitas dengan persepsi konsumen. 
+</pre></div>
             </div>
             <div class="faq-item" data-show="false" data-index="24" data-anim="show-up" data-anim-threshold="self" >
-                <div class="faq-question">What is the difference between Brand and Branding?</div>
-                <div class="faq-answer"><pre>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</pre></div>
+                <div class="faq-question">Apa beda Brand dengan Branding?</div>
+                <div class="faq-answer"><pre>Branding adalah serangkaian aktivitas dan proses yang dilakukan untuk mendukung pembentukan brand.</pre></div>
             </div>
             <div class="faq-item" data-show="false" data-index="25" data-anim="show-up" data-anim-threshold="self" >
-                <div class="faq-question">Why it become necessity to build a Brand this period?</div>
-                <div class="faq-answer"><pre>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</pre></div>
+                <div class="faq-question">Mengapa menjadi keharusan untuk membangun Brand pada masa kini?</div>
+                <div class="faq-answer"><pre>Beberapa dari banyak alasan yang ada :
+•	Konsumen membeli brand bukan produk
+•	Sejalan dengan perkembangan jaman dan arus komunikasi yang tak terbatas, konsumen sekarang semakin semakin pintar dan memiliki banyak pilihan
+•	Persaingan yang semakin ketat, pesaing juga semakin pintar dan semakin banyak 
+•	Brand menjadi jalan pintas pembelian ulang
+•	Brand selain memberikan janji akan kualitas dan jaminan, juga memberikan pride atau kebanggaan bagi pemakainya
+•	Tanpa brand kita akan terjebak dengan perang harga, konsumen dalam hal ini hanya memilih produk dengan harga terendah. Bila ada pesaing baru dengan harga yang lebih rendah maka dengan mudah konsumen akan beralih ke pesaing. Akhirnya kita akan menurunkan harga untuk memenangkan persaingan yang ada. Margin akan semakin tipis dari waktu ke waktu. Apakah dengan cara seperti ini Anda akan menjalankan bisnis?
+</pre></div>
             </div>
             <div class="faq-item" data-show="false" data-index="26" data-anim="show-up" data-anim-threshold="self" >
-                <div class="faq-question">How long it takes to build a Brand?</div>
-                <div class="faq-answer"><pre>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</pre></div>
+                <div class="faq-question">Berapa lama kita membangun Brand?</div>
+                <div class="faq-answer"><pre>Melalui ELEVATE, membangun sebuah brand membutuhkan waktu 6-12 bulan, mulai dari persiapan dan proses eksekusinya.
+
+Jangka waktu dalam membangun brand sangat bergantung pada kesiapan yang ada. Proses membangun sebuah brand sama halnya seperti membesarkan seorang anak. Mereka membutuhkan bimbingan dan perawatan secara berkelanjutan sampai mereka dewasa, sama halnya dengan sebuah brand. Setiap bisnis yang dibangun tentunya berkeinginan untuk terus bertahan dan semakin berkembang. Demikianlah proses membangun brand, berkelanjutan dan tidak pernah berhenti. </pre></div>
             </div>
             <div class="faq-item" data-show="false" data-index="27" data-anim="show-up" data-anim-threshold="self" >
-                <div class="faq-question">If I already have a Brand and doing the Branding Activity, do I need a Rebranding?</div>
-                <div class="faq-answer"><pre>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</pre></div>
+                <div class="faq-question">Bila saya telah memiliki Brand dan melakukan aktivitas branding, apakah saya memerlukan Re-Branding?</div>
+                <div class="faq-answer"><pre>Banyak hal yang mempengaruhi keputusan untuk melakukan Re-Branding. Kami menyarankan untuk melakukan general check up pada Brand Anda secara gratis* dengan menghubungi ELEVATE.
+
+Tentu hasil check up ini nanti nya akan dianalisa yang kemudian akan merujuk kepada kesimpulan untuk mempertimbangkan keputusan yang tepat.
+
+Kuncinya adalah kepada RELEVANSI. Seberapa relevan brand Anda terhadap target market dan jaman akan menentukan seberapa tangguh Brand Anda dalam persaingan. </pre></div>
             </div>
             <div class="faq-item" data-show="false" data-index="28" data-anim="show-up" data-anim-threshold="self" >
-                <div class="faq-question">Do I need to patent my Brand?</div>
-                <div class="faq-answer"><pre>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</pre></div>
+                <div class="faq-question">Apakah saya harus mematenkan brand saya?</div>
+                <div class="faq-answer"><pre>Tentu saja, bila kita menyadari betapa besarnya usaha untuk melahirkan dan membangun brand, maka paten adalah hal yang wajib. Kita tidak ingin usaha kita sia - sia bukan? Brand tanpa paten membuka peluang besar bagi orang lain untuk meniru Brand Anda dan menikmati hasil kerja keras Anda dengan mudahnya.
+
+Saat ini, persaingan semakin ketat sehingga banyak pihak yang melakukan segala cara untuk mencapai kesuksesan. Tidak heran banyak brand hebat di dunia mengalami tindakan peniruan dan pemalsuan, bayangkan potensi yang akan terjadi.</pre></div>
             </div>
             <div class="faq-item" data-show="false" data-index="29" data-anim="show-up" data-anim-threshold="self" >
-                <div class="faq-question">How much should I spend to build a Brand? Does it expensive?</div>
-                <div class="faq-answer"><pre>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</pre></div>
-            </div>
-            <div class="faq-item" data-show="false" data-index="30" data-anim="show-up" data-anim-threshold="self" >
-                <div class="faq-question">Is there any guarantee of success when building a Brand?</div>
-                <div class="faq-answer"><pre>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</pre></div>
-            </div>
-            <div class="faq-item" data-show="false" data-index="31" data-anim="show-up" data-anim-threshold="self" >
-                <div class="faq-question">So, what factors support the success of a Brand?</div>
-                <div class="faq-answer"><pre>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</pre></div>
+                <div class="faq-question">Berapa biaya yang harus saya keluarkan untuk membangun Brand? Apakah mahal?</div>
+                <div class="faq-answer"><pre>Biaya yang dikeluarkan untuk membangun sebuah brand sangat bervariasi, tergantung variable yang mengikutinya seperti skala dari bisnis yang akan dijalankan, tingkat kerumitan dan kesulitan yang ada, tingkat kedalaman riset dan analisa yang akan dijalankan.
+
+Mahal atau tidaknya tergantung dari sudut pandang kita, menganggap branding sebagai biaya atau sebagai investasi. Sebenarnya, membangun sebuah brand merupakan investasi jangka panjang. Walaupun mengeluarkan biaya lebih di awal, proses branding yang tepat akan sangat berpengaruh bagi kelangsungan bisnis Anda di masa depan dan seterusnya.</pre></div>
             </div>
         </div>
     </div>
