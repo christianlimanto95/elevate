@@ -93,25 +93,25 @@ Sebuah kompetisi dan daya untuk memberi yang terbaik dan mengejar kesempurnaan.<
         <div class="section-title" data-anim="show-up" data-anim-threshold="self">7 Reasons<br />Why Elevate As Your Partner</div>
         <div class="section-description" data-anim="show-up" data-anim-threshold="self">
             <pre><span class="section-subtitle">Character Branding</span>
-Karakter adalah modal dasar yang harus diciptakan dalam membentuk identitas dari sebuah brand. Melalui karakter yang kuat, sebuah brand akan mampu meninggalkan padatnya persaingan dan berjalan dengan cepat.
+Kami memberikan karakter yang kuat pada identitas dan brand Anda
 
 <span class="section-subtitle">Creative Strategy</span>
-Strategi merupakan kunci awal sebuah kesuksesan, ketika ditambah dengan unsur kreatif, kami membuka pintu kemungkinan untuk melakukan terobosan melalui inovasi.
+Membangun strategi kreatif untuk membuka peluang pengembangan bisnis Anda
 
 <span class="section-subtitle">Companion System</span>
-Proses branding memerlukan intensitas detail yang konsisten. Melalui pengalaman kami, sistem pendampingan menjadi solusi terbaik. Bersama, kita akan menghasilkan sebuah masterpiece.
+Mendampingi dalam perumusan strategi hingga eksekusinya
 
 <span class="section-subtitle">Crafted Design</span>
-Strategi saja tidak cukup, eksekusi visual sebagai jembatan nyata kepada customer akan memberi sentuhan kesempurnaan dalam penciptaan brand. Yes, design matters, design talks, design is powerful.
+Eksekusi desain visual yang relevan dengan karakter bisnis dan customer Anda
 
 <span class="section-subtitle">Integrated Services</span>
-Branding memiliki banyak lingkup. Layanan terpadu akan memberikan kinerja efektif dan efisien dari perencanaan, riset, analisa, hingga eksekusi dikemas khusus untuk kepuasan pelanggan setiap klien.
+Layanan terpadu yang efektif dan efisien dari perencanaan, analisa, dan pelaksanaan program kerja
 
 <span class="section-subtitle">Passionate Team</span>
 Branding merupakan hasil kolaborasi antara art & science, melibatkan team yang memfasilitasi keduanya. Team solid yang terbentuk melalui passion akan menghasilkan antusiasme kinerja tinggi.
 
 <span class="section-subtitle">Excellence Spirit</span>
-Inilah yang mendasari kerja ELEVATE, apa yang kami kejar selalu di atas standar. Oleh karenanya, kami tidak pernah berhenti untuk terus belajar, menggali ilmu agar terus relevan bagi klien.</pre>
+Team yang solid, professional, dan passionate untuk menghasilkan kinerja yang terbaik</pre>
         </div>
     </div>
 </div>
@@ -222,7 +222,7 @@ Kualitas adalah yang utama, aktivitas marketing akan membantu membetuk image ata
                 <div class="faq-question">Mengapa menjadi keharusan untuk membangun Brand pada masa kini?</div>
                 <div class="faq-answer"><pre>Beberapa dari banyak alasan yang ada :
 •	Konsumen membeli brand bukan produk
-•	Sejalan dengan perkembangan jaman dan arus komunikasi yang tak terbatas, konsumen sekarang semakin semakin pintar dan memiliki banyak pilihan
+•	Sejalan dengan perkembangan jaman dan arus komunikasi yang tak terbatas, konsumen sekarang semakin pintar dan memiliki banyak pilihan
 •	Persaingan yang semakin ketat, pesaing juga semakin pintar dan semakin banyak 
 •	Brand menjadi jalan pintas pembelian ulang
 •	Brand selain memberikan janji akan kualitas dan jaminan, juga memberikan pride atau kebanggaan bagi pemakainya
